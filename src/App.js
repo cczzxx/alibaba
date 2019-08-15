@@ -1,6 +1,6 @@
 import React from 'react';
 import { Router, Route, hashHistory, IndexRoute } from 'react-router';
-import IndexPage from './index/index';
+import IndexPage from './pages/index/index';
 import Home from './pages/home/index';
 
 require('./App.css');
